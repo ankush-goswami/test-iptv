@@ -1,10 +1,60 @@
 #EXTM3U
-#EXTINF:-1,COLORS
-http://iptv365.xyz:80/t12mgxya299/0312262374/190507
-#EXTINF:-1,ZEE CINEMA HD
-http://iptv365.xyz:80/t12mgxya299/0312262374/191011
-#EXTINF:-1,Zee World
-http://ip365.cx:900/t12mgxya299/0312262374/400318022
+#EXTINF:-1 ,SONY MAX
+https://list.iptvcat.com/my_list/s/35047016d7c9ec2114aca37213e65269.m3u8
+#EXTINF:-1 ,SONY MAX UKHD
+https://list.iptvcat.com/my_list/s/2d4303478dd0415b9995bb6abd567ced.m3u8
+#EXTINF:-1 ,SONY SAB HD
+https://list.iptvcat.com/my_list/s/6ddae6a35d253d7128cde2d0eecdbb44.m3u8
+#EXTINF:-1 ,SONY TV HD
+https://list.iptvcat.com/my_list/s/9835600c76394206fc80ea4702eb58e1.m3u8
+#EXTINF:-1 ,SONY TV UKHD
+https://list.iptvcat.com/my_list/s/31f2aa7f19ecca98604e9e522acbfa61.m3u8
+#EXTINF:-1 ,SONY MAX HD
+https://list.iptvcat.com/my_list/s/660276af41c87d8764cd3514ae56ad69.m3u8
+#EXTINF:-1 ,SONY TEN3 HD
+https://list.iptvcat.com/my_list/s/017a0f3791e8b000db9781369d59b17b.m3u8
+#EXTINF:-1 ,SONY YAY VIPHD
+https://list.iptvcat.com/my_list/s/84b29b3053eef945e9d4fefa23a2f842.m3u8
+#EXTINF:-1 ,STAR PLUS
+https://list.iptvcat.com/my_list/s/1088874e2a47d6d422315ec031fd3dde.m3u8
+#EXTINF:-1 ,STAR SPORTS1 HD
+https://list.iptvcat.com/my_list/s/3aefeffac956071b0f09c82bec8c70e1.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT1 HD
+https://list.iptvcat.com/my_list/s/b821f1b2aef95b51042a056056ecbacd.m3u8
+#EXTINF:-1 ,STAR SPORTS2 HD
+https://list.iptvcat.com/my_list/s/ab05dfe4b4ab96c3787cd40089186632.m3u8
+#EXTINF:-1 ,STAR GOLD UKHD
+https://list.iptvcat.com/my_list/s/fbdad899ff4fd4096a2808d0b3ae9020.m3u8
+#EXTINF:-1 ,STAR PLUS UK
+https://list.iptvcat.com/my_list/s/bcb6da07d05290237cc10c96d4abf46c.m3u8
+#EXTINF:-1 ,BFLIX MOVIES HD
+https://list.iptvcat.com/my_list/s/6e7454ed26f98c3b7400c38597b111be.m3u8
+#EXTINF:-1 ,B4U Movies
+http://183.89.246.119:8881/play/a08n/index.m3u8
+#EXTINF:-1 ,Zee Cinema 
+https://list.iptvcat.com/my_list/s/108755c6878c5eb46b8d30e49d6e52b3.m3u8
+#EXTINF:-1 ,Zee Punjabi 
+https://list.iptvcat.com/my_list/s/55c71d3b9b1e508b76d79caabe9bcbbc.m3u8
+#EXTINF:-1 ,News Nation 
+https://list.iptvcat.com/my_list/s/89b34d713ad45ebfe7552ef3ae2a2921.m3u8
+#EXTINF:-1 ,MHONE Shraddha 
+https://list.iptvcat.com/my_list/s/ad882250578b5d3d77ea632c7065bf42.m3u8
+#EXTINF:-1 ,Zee Cinema UK
+https://list.iptvcat.com/my_list/s/abad1c9e5de6c3c33882c8819aa78872.m3u8
+#EXTINF:-1 ,Zee Action HD Movies
+https://list.iptvcat.com/my_list/s/c75c39f32c13ca0aec0c46657c63c0df.m3u8
+#EXTINF:-1 ,WOW Cinema
+https://list.iptvcat.com/my_list/s/29bdaf9d8af777c788fda3e0ce2e6c2e.m3u8
+#EXTINF:-1 ,UTV HD Movies
+https://list.iptvcat.com/my_list/s/9862ee87cd954243aba507989c27b796.m3u8
+#EXTINF:-1 ,SET MAX
+https://list.iptvcat.com/my_list/s/3b1c4a1aadc33e56fdb00b471fdaa53f.m3u8
+#EXTINF:-1 ,Rishtey Cineplex UK
+https://list.iptvcat.com/my_list/s/5125f451eaf64121841dddcdb56e35af.m3u8
+#EXTINF:-1 ,BALLE Balle
+https://list.iptvcat.com/my_list/s/6fb9b8adee6a9291f784fb0b9b0856f4.m3u8
+#EXTINF:-1 ,B4U Music
+http://183.89.246.119:8881/play/a08o/index.m3u8
 #EXTINF:-1,ZEE5 &TV HD
 http://173.225.246.25:8889/udp/239.203.20.2:4002
 #EXTINF:-1 ,B4U Kadak
@@ -395,3 +445,195 @@ http://210.210.155.37/x6bnqe/s/s81/02.m3u8
 http://210.210.155.37/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 ,TV Punjab (720p)
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+#EXTINF:-1 ,Zee Music
+https://list.iptvcat.com/my_list/s/6c7ead2f421416820dd5aff44fb859a7.m3u8
+#EXTINF:-1 ,CNBC Awaaz
+https://list.iptvcat.com/my_list/s/14952863050616b1901b15dc12f0c884.m3u8
+#EXTINF:-1 ,First India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 ,Zee Cafe
+https://list.iptvcat.com/my_list/s/7b21c56bfeaf114402716b75dd144da2.m3u8
+#EXTINF:-1 ,Hamdard TV
+https://list.iptvcat.com/my_list/s/75b91aab2060e8368c185b3d1b77496e.m3u8
+#EXTINF:-1 ,India News
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+#EXTINF:-1 ,India TV
+https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
+#EXTINF:-1 ,NDTV
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 ,NEWS18
+https://ythls.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
+#EXTINF:-1 ,Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 ,Sony Movies US
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 ,Sony Movies US
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 ,Zee Delhi NCR news
+https://ythls.onrender.com/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
+#EXTINF:-1 ,Zee Hindustan
+https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/index_4.m3u8
+#EXTINF:-1 ,Punjab TV
+https://list.iptvcat.com/my_list/s/da192365ddf57d2304049784a2e554fe.m3u8
+#EXTINF:-1 ,041 CineMax
+http://45.5.117.182:8000/play/a0j6/index.m3u8
+#EXTINF:-1 ,Prime Canada TV
+https://list.iptvcat.com/my_list/s/b07da62bdd67f8750481b93fe19eb75a.m3u8
+#EXTINF:-1 ,TV Punjab
+https://list.iptvcat.com/my_list/s/750e8e90f5daf56cf3a99ba46eb01176.m3u8
+#EXTINF:-1 ,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 ,SONY MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8xxx
+#EXTINF:-1 ,UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Colors Cineplex HD
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:-1 ,Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 ,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Sony Entertainment TV
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 ,Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 group-title="freecatv",IB Tv Usa
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 ,Pakistan news TV
+http://208.86.19.13:81/7188.stream/index.m3u8
+#EXTINF:-1 ,048. Comedy Central HD
+http://45.5.117.182:8000/play/a0id/index.m3u8
+#EXTINF:-1 ,061. Disney
+http://45.5.117.182:8000/play/a0it/index.m3u8
+#EXTINF:-1 ,062. Disney JR
+http://45.5.117.182:8000/play/a0eq/index.m3u8
+#EXTINF:-1 ,066. ESPN
+http://45.5.117.182:8000/play/a0hx/index.m3u8
+#EXTINF:-1 ,067. ESPN  +
+http://45.5.117.182:8000/play/a0fc/index.m3u8
+#EXTINF:-1 ,068. ESPN 2
+http://45.5.117.182:8000/play/a0hy/index.m3u8
+#EXTINF:-1 ,069. ESPN 2 HD
+http://45.5.117.182:8000/play/a0jp/index.m3u8
+#EXTINF:-1 ,070. ESPN 3
+http://45.5.117.182:8000/play/a0gi/index.m3u8
+#EXTINF:-1 ,071. ESPN 3 HD
+http://45.5.117.182:8000/play/a0jo/index.m3u8
+#EXTINF:-1 ,072. ESPN 4
+http://45.5.117.182:8000/play/a0iz/index.m3u8
+#EXTINF:-1 ,073. ESPN 4  HD
+http://45.5.117.182:8000/play/a0jh/index.m3u8
+#EXTINF:-1 ,074. ESPN HD
+http://45.5.117.182:8000/play/a0jn/index.m3u8
+#EXTINF:-1 ,079. Film & Arts
+http://45.5.117.182:8000/play/a0e1/index.m3u8
+#EXTINF:-1 ,080. Film & arts HD
+http://45.5.117.182:8000/play/a0fl/index.m3u8
+#EXTINF:-1 ,081. Fox Sport 3
+http://45.5.117.182:8000/play/a0f0/index.m3u8
+#EXTINF:-1 ,082. FOX Sports 2
+http://45.5.117.182:8000/play/a0gj/index.m3u8
+#EXTINF:-1 ,083. FOX SPORTS 2 HD
+http://45.5.117.182:8000/play/a0i8/index.m3u8
+#EXTINF:-1 ,084. FOX SPORTS 3 HD
+http://45.5.117.182:8000/play/a0jq/index.m3u8
+#EXTINF:-1 ,093. H2
+http://45.5.117.182:8000/play/a0ge/index.m3u8
+#EXTINF:-1 ,094. HBO Family HD
+http://45.5.117.182:8000/play/a0ec/index.m3u8
+#EXTINF:-1 ,095. HBO HD
+http://45.5.117.182:8000/play/a0e8/index.m3u8
+#EXTINF:-1 ,096. HBO Plus HD
+http://45.5.117.182:8000/play/a0ea/index.m3u8
+#EXTINF:-1 ,098. HBO2 HD
+http://45.5.117.182:8000/play/a0eP/index.m3u8
+#EXTINF:-1 ,098. HBO2 HD
+http://45.5.117.182:8000/play/a0et/index.m3u8
+#EXTINF:-1 ,099. History Channel
+http://45.5.117.182:8000/play/a0hv/index.m3u8
+#EXTINF:-1 ,100 History HD
+http://45.5.117.182:8000/play/a0fb/index.m3u8
+#EXTINF:-1 ,101. HOLA! TV HD
+http://45.5.117.182:8000/play/a0ic/index.m3u8
+#EXTINF:-1 ,103. HTV
+http://45.5.117.182:8000/play/a0gn/index.m3u8
+#EXTINF:-1 ,114. MTV HD
+http://45.5.117.182:8000/play/a0fd/index.m3u8
+#EXTINF:-1 ,115. MTV Hits
+http://45.5.117.182:8000/play/a0f1/index.m3u8
+#EXTINF:-1 ,122. Nick Jr
+http://45.5.117.182:8000/play/a0eo/index.m3u8
+#EXTINF:-1 ,123. Nick SIM HD
+http://45.5.117.182:8000/play/a0i7/index.m3u8
+#EXTINF:-1 ,124. Nickelodeon
+http://45.5.117.182:8000/play/a0is/index.m3u8
+#EXTINF:-1 ,125. Paramount
+http://45.5.117.182:8000/play/a0e3/index.m3u8
+#EXTINF:-1 ,135. Sony Movies HD
+http://45.5.117.182:8000/play/a0fr/index.m3u8
+#EXTINF:-1 ,136. SPACE
+http://45.5.117.182:8000/play/a0ev/index.m3u8
+#EXTINF:-1 ,137. SPACE HD
+http://45.5.117.182:8000/play/a0jj/index.m3u8
+#EXTINF:-1 ,138. STAR CHANNEL
+http://45.5.117.182:8000/play/a0iu/index.m3u8
+#EXTINF:-1 ,139. STAR CHANNEL HD
+http://45.5.117.182:8000/play/a0i1/index.m3u8
+#EXTINF:-1 ,140. Star TVE HD
+http://45.5.117.182:8000/play/a0fu/index.m3u8
+#EXTINF:-1 ,141. Studio Universal
+http://45.5.117.182:8000/play/a0j7/index.m3u8
+#EXTINF:-1 ,142. Studio Universal HD
+http://45.5.117.182:8000/play/a0fh/index.m3u8
+#EXTINF:-1 ,158. TLC
+http://45.5.117.182:8000/play/a0hw/index.m3u8
+#EXTINF:-1 ,159. TNT
+http://45.5.117.182:8000/play/a0f4/index.m3u8
+#EXTINF:-1 ,160. TNT HD
+http://45.5.117.182:8000/play/a0i9/index.m3u8
+#EXTINF:-1 ,161. TNT Series
+http://45.5.117.182:8000/play/a0ew/index.m3u8
+#EXTINF:-1 ,162. TNT Series HD
+http://45.5.117.182:8000/play/a0jt/index.m3u8
+#EXTINF:-1 ,163. Tooncast
+http://45.5.117.182:8000/play/a0hm/index.m3u8
+#EXTINF:-1 ,164. Tru TV
+http://45.5.117.182:8000/play/a0es/index.m3u8
+#EXTINF:-1 ,165. TV  Max - PAN
+http://45.5.117.182:8000/play/a0ip/index.m3u8
+#EXTINF:-1 ,166. Universal
+http://45.5.117.182:8000/play/a0j2/index.m3u8
+#EXTINF:-1 ,167. UNIVERSAL CINEMA ESTE HD
+http://45.5.117.182:8000/play/a0jz/index.m3u8
+#EXTINF:-1 ,169. UNIVERSAL CRIME HD
+http://45.5.117.182:8000/play/a0ij/index.m3u8
+#EXTINF:-1 ,170. UNIVERSAL PREMIERE HD
+http://45.5.117.182:8000/play/a0ig/index.m3u8
+#EXTINF:-1 ,171. UNIVERSAL PREMIERE O HD
+http://45.5.117.182:8000/play/a0ih/index.m3u8
+#EXTINF:-1 ,173. Univision HD
+http://45.5.117.182:8000/play/a0jx/index.m3u8
+#EXTINF:-1 ,175. Warner
+http://45.5.117.182:8000/play/a0hp/index.m3u8
+#EXTINF:-1 ,176. WARNER HD
+http://45.5.117.182:8000/play/a0i2/index.m3u8
